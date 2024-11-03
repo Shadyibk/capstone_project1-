@@ -24,16 +24,24 @@
 ## DATA ANALYSIS
 ### 1.	Excel
 #### i.	Perform an initial exploration of the Sales Total. Use Pivot table to summarise total sales by product, region and month.
-### ![CAPSTONE_PROJECT 1CO](https://github.com/user-attachments/assets/343333bf-0cd5-4faf-a4bd-327d234a162c)
+### ![eXCEL PROJECT1A](https://github.com/user-attachments/assets/3f15f514-c176-4bbd-b1f6-b4b09179e12e)
 #### ii.	Use excel formula to calculate metrics such as; Average Sales per product and Total Revenue by Region.
 ### 2.	SQL
 #### i.	Retrieve the Total sales for each product category.
+### ![CAPSTONE_PROJECT1A](https://github.com/user-attachments/assets/1e1267c3-e78f-4485-ba45-af2c141c1fa6)
 #### ii.	Find the number of sales transaction in each region.
+### ![CAPSTONE_PROJECT1B](https://github.com/user-attachments/assets/ca4a99dc-428b-4659-bd5d-67db44af9260)
 #### iii.	Find the highest selling product by total sales value.
+### ![PROJECT 2C](https://github.com/user-attachments/assets/e60e4af3-0897-4da9-a148-e60e84e69946)
 #### iv.	Calculate total revenue by product.
+### ![capstone_project1D](https://github.com/user-attachments/assets/1129945a-68ff-4f2c-aa7a-9efffd241da5)
 #### v.	Calculate monthly sales totals for the current year.
+### ![CAPSTONE_PROJECTE](https://github.com/user-attachments/assets/cd3a51cb-a281-44bb-bfbe-3503e21a0f32)
 #### vi.	Find the top five customers by total purchase amount.
+### ![CAPSTONE_PROJECT1F](https://github.com/user-attachments/assets/e79f0556-bc5a-4720-8d1e-f81c59ba6500)
 #### vii.	Calculate the percentage of total sales contributed by each region.
+### ![CAPSTONE_PROJECT1G](https://github.com/user-attachments/assets/9b34d132-3c54-4284-a769-a02ca15822fc)
 ## DATA VISUALIZATION
 ### 1.	Excel
 #### i.	Create any other interesting report
+### ![PROJECT  1C](https://github.com/user-attachments/assets/7a37eea3-4603-4558-b6ee-a092a42891d2)
