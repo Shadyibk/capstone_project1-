@@ -32,7 +32,7 @@
 #### ii.	Find the number of sales transaction in each region.
 ### ![CAPSTONE_PROJECT1B](https://github.com/user-attachments/assets/ca4a99dc-428b-4659-bd5d-67db44af9260)
 #### iii.	Find the highest selling product by total sales value.
-### ![PROJECT 2C](https://github.com/user-attachments/assets/e60e4af3-0897-4da9-a148-e60e84e69946)
+### ![CAPSTONE_PROJECT 1CO](https://github.com/user-attachments/assets/fec8c477-b622-4af6-aa1a-919fcb51bc3f)
 #### iv.	Calculate total revenue by product.
 ### ![capstone_project1D](https://github.com/user-attachments/assets/1129945a-68ff-4f2c-aa7a-9efffd241da5)
 #### v.	Calculate monthly sales totals for the current year.
