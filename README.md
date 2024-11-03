@@ -44,4 +44,5 @@
 ## DATA VISUALIZATION
 ### 1.	Excel
 #### i.	Create any other interesting report
-### ![PROJECT  1C](https://github.com/user-attachments/assets/7a37eea3-4603-4558-b6ee-a092a42891d2)
+### ![PROJECT  1C (2)](https://github.com/user-attachments/assets/0f5b4750-7b83-4cab-a01a-3bea1567e2a9)
+
