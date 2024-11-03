@@ -24,6 +24,7 @@
 ## DATA ANALYSIS
 ### 1.	Excel
 #### i.	Perform an initial exploration of the Sales Total. Use Pivot table to summarise total sales by product, region and month.
+### ![CAPSTONE_PROJECT 1CO](https://github.com/user-attachments/assets/343333bf-0cd5-4faf-a4bd-327d234a162c)
 #### ii.	Use excel formula to calculate metrics such as; Average Sales per product and Total Revenue by Region.
 ### 2.	SQL
 #### i.	Retrieve the Total sales for each product category.
